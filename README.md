@@ -25,4 +25,4 @@
 
 3. Home Page
 
-![](git-images/BlogMERN03.png)
+
